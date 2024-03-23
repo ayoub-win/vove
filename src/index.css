@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+* {
+  scroll-behavior: smooth;
+}
+
+.sidebar{
+  background: #1e293b;
+}
